@@ -1,0 +1,4 @@
+Column 1: parallax (in milliarceconds)
+Column 2: V magnitude
+Column 3: B magnitude
+Column 4: I magnitude
