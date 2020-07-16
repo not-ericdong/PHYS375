@@ -1,5 +1,5 @@
 # PHYS375
 
-Stars - assignments and final project
+Final Stellar Modelling Project + Assignments
 
 Data files not uploaded with final project.
